@@ -9,7 +9,8 @@
 ## 3주차 (2022-03-22)
 -안드로이드스튜디오 버튼 생성 & 시뮬레이션 돌리기
 
+<img width="500" height="600" src="./pic/3nd_start.jpg"></img>
 
-<img width="400" height="600" src="./pic/3nd_naver.jpg"></img>
+<img width="500" height="600" src="./pic/3nd_naver.jpg"></img>
 
-<img width="400" height="600" src="./pic/3nd_call.jpg"></img>
+<img width="500" height="600" src="./pic/3nd_call.jpg"></img>
