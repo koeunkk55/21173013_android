@@ -19,6 +19,6 @@
 ## 4주차 (2022-03-29)
 -안드로이드스튜디오 버튼으로 메세지 띄우기 & 코드로 디자인해보기 & 픽셀과 dpi 이론
 
-<img width="500" height="700" src="./pic/4st_start.jpg"></img>
+<img width="500" height="650" src="./pic/4st_start.jpg"></img>
 
-<img width="500" height="700" src="./pic/4st_message.jpg"></img>
+<img width="500" height="650" src="./pic/4st_message.jpg"></img>
