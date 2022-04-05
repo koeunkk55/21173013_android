@@ -27,6 +27,6 @@
 ## 5주차 (2022-04-05)
 -안드로이드스튜디오 버튼으로 사진 전환하기 / 리니어 레이아웃 (쌓으면서 생성) / 프레임 레이아웃 (버튼을 이용하여 각 뷰를 전환)
 
-<img width="500" height="650" src="./pic/4st_1.jpg"></img>
+<img width="500" height="650" src="./pic/5st_1.jpg"></img>
 
-<img width="500" height="650" src="./pic/4st_2.jpg"></img>
+<img width="500" height="650" src="./pic/5st_2.jpg"></img>
