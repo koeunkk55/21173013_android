@@ -47,9 +47,9 @@
 
 <img width="500" height="650" src="./pic/6st_2.jpg"></img>
 
-<img width="900" height="550" src="./pic/6st_actmain1.jpg"></img>
+<img width="600" height="550" src="./pic/6st_actmain1.jpg"></img>
 
-<img width="900" height="550" src="./pic/6st_actmain2.jpg"></img>
+<img width="600" height="550" src="./pic/6st_actmain2.jpg"></img>
 
 <img width="900" height="550" src="./pic/6st_javasrc1.jpg"></img>
 
