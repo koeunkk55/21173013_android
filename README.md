@@ -34,3 +34,24 @@
 <img width="900" height="550" src="./pic/src1.jpg"></img>
 
 <img width="900" height="550" src="./pic/src2.jpg"></img>
+
+## 6주차 (2022-04-12)
+-안드로이드스튜디오 스크롤뷰 이용하기 / 
+-과제 :   • 한 개의 버튼을 클릭하면 
+          1. Toast.makeText() 이용 하단에 width 크기 값을 표시 (Interger.toString() 함수 사용) 
+
+          • 또 다른 버튼을 클릭하면 
+          2. Toast.makeText() 하단에 height 크기 값을 표시 (Interger.toString() 함수 사용)
+         
+<img width="500" height="650" src="./pic/6st_1.jpg"></img>
+
+<img width="500" height="650" src="./pic/6st_2.jpg"></img>
+
+<img width="900" height="550" src="./pic/6st_actmain1.jpg"></img>
+
+<img width="900" height="550" src="./pic/6st_actmain2.jpg"></img>
+
+<img width="900" height="550" src="./pic/6st_javasrc1.jpg"></img>
+
+<img width="900" height="550" src="./pic/6st_javasrc2.jpg"></img>
+
