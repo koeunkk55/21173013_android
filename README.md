@@ -55,3 +55,13 @@
 
 <img width="900" height="550" src="./pic/6st_javasrc2.jpg"></img>
 
+
+## 10주차 (2022-05-10)
+-안드로이드스튜디오 여러 화면 만들고 화면 간 전환하기 / 드로어블과 위젯 사용하기
+
+<img width="500" height="650" src="./pic/10th_start.jpg"></img>
+
+<img width="500" height="650" src="./pic/10th_start2.jpg"></img>
+
+<img width="500" height="650" src="./pic/10th_start3.jpg"></img>
+
