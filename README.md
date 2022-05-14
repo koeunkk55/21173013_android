@@ -65,3 +65,9 @@
 
 <img width="500" height="650" src="./pic/10th_start3.jpg"></img>
 
+<img width="900" height="550" src="./pic/10th_main1.jpg"></img>
+
+<img width="900" height="550" src="./pic/10th_main2.jpg"></img>
+
+<img width="900" height="550" src="./pic/10th_menu.jpg"></img>
+
