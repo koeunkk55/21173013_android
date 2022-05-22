@@ -72,3 +72,8 @@
 
 <img width="900" height="550" src="./pic/10th_menu.jpg"></img>
 
+
+## 11주차 (2022-05-17)
+-안드로이드스튜디오 웹으로 연결하기
+
+<img width="500" height="650" src="./pic/11th_start.jpg"></img>
